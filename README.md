@@ -8,3 +8,6 @@
 * What are the depth, the height, the size of a binary tree?
 * What are the different traversal methods to go through a binary tree
 * What is a complete, a full, a perfect, a balanced binary tree
+
+This project was done as a requirement for the [ALX](https://www.alxafrica.com/)-[Holberton](https://www.holbertonschool.com/)
+Software Engineering course.
